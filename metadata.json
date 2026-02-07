@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Vitalando Gym",
+  "description": "A premium fitness and wellness platform featuring personal training, class scheduling, and AI-powered workout assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
